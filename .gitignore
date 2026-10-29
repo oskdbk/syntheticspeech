@@ -1,3 +1,8 @@
 # Local Docker build arguments may contain machine or account specific IDs.
 /build.args
 /build.args.example
+__pycache__/
+*.pyc
+.venv*/
+.env
+.env.*
