@@ -1,2 +1,3 @@
 # Local Docker build arguments may contain machine or account specific IDs.
 /build.args
+/build.args.example

@@ -1,3 +1,0 @@
-# Copy to build.args and set the UID/GID that should own mounted files.
-APP_UID=1000
-APP_GID=1000
